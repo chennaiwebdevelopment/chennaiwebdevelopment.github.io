@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://chennaiwebdevelopment.github.io
+title: Chennai Web Development
+tagline: Your destination to design & development needs
+description: Chennai Web Development's micro blogging website. <br /><br />Web Design & Development company in Chennai specialized in website designing, CMS development, eCommerce, and digital marketing solutions.<br /><br />http://www.chennaiwebdevelopment.in/
+paginate: 5
